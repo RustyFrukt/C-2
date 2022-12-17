@@ -1,0 +1,15 @@
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\bin\Debug\net6.0\Array.exe
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\bin\Debug\net6.0\Array.deps.json
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\bin\Debug\net6.0\Array.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\bin\Debug\net6.0\Array.pdb
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\refint\Array.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.pdb
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\Array\obj\Debug\net6.0\ref\Array.dll
