@@ -1,0 +1,15 @@
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.csproj.AssemblyReference.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.AssemblyInfoInputs.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.AssemblyInfo.cs
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.csproj.CoreCompileInputs.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\bin\Debug\net6.0\F.Max.exe
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\bin\Debug\net6.0\F.Max.deps.json
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\bin\Debug\net6.0\F.Max.runtimeconfig.json
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\bin\Debug\net6.0\F.Max.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\bin\Debug\net6.0\F.Max.pdb
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\refint\F.Max.dll
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.pdb
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\F.Max.genruntimeconfig.cache
+C:\Users\Frukt\Desktop\Обучение\NEW C2\F.Max\obj\Debug\net6.0\ref\F.Max.dll
